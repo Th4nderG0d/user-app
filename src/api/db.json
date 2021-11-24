@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "register": [
+    {
+      "id": 1,
+      "token": "some comment",
+      "email": "",
+      "password": ""
+    },
+    {
+      "name": "fdsvsev",
+      "email": "es@erwe",
+      "password": "wef",
+      "id": 2
+    },
+    {
+      "name": "awdd",
+      "email": "awq@wqq",
+      "password": "3dqd",
+      "id": 3
+    },
+    {
+      "name": "qcaewa",
+      "email": "w@qewdcq",
+      "password": "wcxcwqc",
+      "id": 4
+    },
+    {
+      "name": "anvesh",
+      "email": "asw@www",
+      "password": "12q2w",
+      "id": 5
+    },
+    {
+      "name": "swqw",
+      "email": "a1q@ww",
+      "password": "q1w2w",
+      "id": 6
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "email": "ad@dqd",
+      "password": "q1w2e3",
+      "id": 2
+    },
+    {
+      "email": "wada@xwawda",
+      "password": "awdac",
+      "id": 3
+    },
+    {
+      "email": "sw2#@dwdwdww",
+      "password": "wcsg",
+      "id": 4
+    },
+    {
+      "email": "wadw@weqd",
+      "password": "qdqwcw",
+      "id": 5
+    },
+    {
+      "email": "aq@q1",
+      "password": "1q1q",
+      "id": 6
+    },
+    {
+      "email": "zw@sww",
+      "password": "q123e",
+      "id": 7
+    },
+    {
+      "email": "xxx@sss",
+      "password": "q1w23r4",
+      "id": 8
+    },
+    {
+      "email": "q1w2@fg",
+      "password": "q1w23",
+      "id": 9
+    },
+    {
+      "email": "prem@ff.cc",
+      "password": "q1w23e",
+      "id": 10
+    },
+    {
+      "email": "ww2QQ@QW",
+      "password": "Q12W",
+      "id": 11
+    }
+  ]
+}
